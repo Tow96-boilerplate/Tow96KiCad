@@ -1,5 +1,29 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM2677SX-12
+D 12V, 500mA Step-Down Voltage Regulator
+K Step-Down Voltage Regulator 12V 5A
+F https://www.ti.com/lit/ds/symlink/lm2677.pdf
+$ENDCMP
+#
+$CMP LM2677SX-3.3
+D 3.3V, 5A Step-Down Voltage Regulator
+K Step-Down Voltage Regulator
+F https://www.ti.com/lit/ds/symlink/lm2677.pdf
+$ENDCMP
+#
+$CMP LM2677SX-5.0
+D 5V, 5A Step-Down Voltage Regulator
+K Step-Down Voltage Regulator
+F https://www.ti.com/lit/ds/symlink/lm2677.pdf
+$ENDCMP
+#
+$CMP LM2677SX-ADJ
+D Adjustable Output Voltage, 5A Step-Down Voltage Regulator
+K Step-Down Voltage Regulator
+F https://www.ti.com/lit/ds/symlink/lm2677.pdf
+$ENDCMP
+#
 $CMP SK6812MINI-compact
 D RGB LED with integrated controller
 K RGB LED NeoPixel Mini addressable
